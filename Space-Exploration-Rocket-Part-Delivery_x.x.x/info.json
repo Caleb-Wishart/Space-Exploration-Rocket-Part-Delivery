@@ -1,12 +1,9 @@
 {
   "name": "Space-Exploration-Rocket-Part-Delivery",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "title": "Space Exploration Rocket Part Delivery",
   "author": "AckEmma",
   "factorio_version": "1.1",
   "description": "Adds the ability to send Cargo Rocket components and other Delivery Cannon Capsules via Delivery Cannon.\nThanks Earendel and the Space Exploration Mod for an awesome mod\nVisit: https://mods.factorio.com/mod/space-exploration",
-  "dependencies": [
-    "base",
-    "space-exploration"
-    ]
+  "dependencies": ["base", "space-exploration"]
 }

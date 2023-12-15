@@ -3,7 +3,7 @@ local data_util = require("__space-exploration__/data_util")
 mod_prefix = data_util.mod_prefix
 
 -- defaults to stack size for items
-data.raw.item[mod_prefix .. "cargo-rocket-section-packed"].stack_size = 10
+data.raw.item[mod_prefix .. "cargo-rocket-section-packed"].stack_size = settings.startup["cargo-rocket-section-packed-stack-size"].value
 
 -- add recipies for stacking
 local capsule_stack_size = 25
