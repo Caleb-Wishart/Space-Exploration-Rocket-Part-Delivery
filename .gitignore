@@ -39,3 +39,6 @@ luac.out
 *.x86_64
 *.hex
 
+# Testing Folders
+Space-Exploration-Rocket-Part-Delivery_*
+!Space-Exploration-Rocket-Part-Delivery_x.x.x
